@@ -1,0 +1,4 @@
+VBMySQLTestMod = 66, 66, 599, 514, 
+frmConnect = 198, 198, 686, 646, , 176, 176, 664, 624, C
+frmCreateTable = 154, 154, 642, 602, , 176, 176, 664, 624, C
+frmCreateDatabase = 22, 22, 510, 470, , 0, 0, 488, 448, C
